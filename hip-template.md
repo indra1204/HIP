@@ -1,7 +1,7 @@
 # HIP-\<number\>: \<Title\>
 
 - **Description**: A single sentence summarizing the contents of the proposal.
-- **Authors**: [Author](mailto:author@email.com)
+- **Authors**: [sasak](indra@email.com)
 - **Desiderata**: [HD-\<number\>](../HD/md-\<number\>)
 
 <!--
@@ -107,3 +107,5 @@ Nothing important here.
   TODO: Maintain this comment.
 
 -->
+Add HIPS draft: Auto-Claim Rewards
+
